@@ -1,0 +1,4 @@
+[core]
+    remote = remote1
+['remote "remote1"']
+    url = /home/yuhui/Project/store
